@@ -8,7 +8,7 @@ Hi👋
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/rahma-doss-301450162/)
+[![website](./linkedin.svg)](https://www.linkedin.com/in/rahma-doss-301450162/)
 &nbsp;&nbsp;
 
 
