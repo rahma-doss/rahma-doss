@@ -2,6 +2,9 @@
 
 **`FRONT-END DEVELOPER React.js` **
 
+<br />
+
+---
 
 Hi👋 my passion for development pushes me to make a professional retraining early in my career.
 
@@ -16,10 +19,6 @@ Hi👋 my passion for development pushes me to make a professional retraining ea
 &nbsp;&nbsp;
 [![website](./linkedin.svg)](https://www.linkedin.com/in/rahma-doss-301450162/)
 &nbsp;&nbsp;
-
-<br />
-
----
 
 🧰 Languages and Tools:
 
