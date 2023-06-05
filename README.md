@@ -7,6 +7,9 @@ Hi👋 my passion for development pushes me to make a professional retraining ea
 
 
 
+<br />
+
+---
 
 ### Connect with me:
 
