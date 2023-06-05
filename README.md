@@ -4,8 +4,6 @@
 
 <br />
 
----
-
 Hi👋 my passion for development pushes me to make a professional retraining early in my career.
 
 
