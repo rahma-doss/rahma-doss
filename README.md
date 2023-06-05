@@ -6,7 +6,7 @@
 
 Hi👋I'm a Front-end developer specializing in React JS. My passion for development pushes me to make a professional retraining early in my career.To be honest this is hard but I never let go. Today I am proud of myself, because I have reached the goal that I set in 3 years at the beginning of the retraining.
 
-## Connect with me:
+`My goals` 
 
 
 
