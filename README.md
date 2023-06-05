@@ -1,4 +1,4 @@
-👨‍💻 About me: 
+## 👨‍💻 About me: 
 
 **`FRONT-END DEVELOPER React.js` **
 
